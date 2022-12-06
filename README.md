@@ -14,3 +14,13 @@ And then, I performed optimization to reduce the loss bewteen generated image an
 React is used for the frontend, and fetch API is used for making requests with the backend server. FastAPI is used in the backend to input the data from the user and run the whole algorithm and post the results back to the user after training.
 
 Some of the output images are shown below.
+
+![Dogs 2](https://user-images.githubusercontent.com/93503629/205932993-eecb8ce5-d4aa-4ed9-9c96-cb7db7662930.png)
+
+![Screenshot_10](https://user-images.githubusercontent.com/93503629/205933072-28c0719a-c61c-4419-bbbc-634389feb63a.jpg)
+
+![Screenshot_8](https://user-images.githubusercontent.com/93503629/205933262-9534efe5-e686-4284-8e76-5cbd55a224ad.jpg)
+
+![Screenshot_4](https://user-images.githubusercontent.com/93503629/205933122-a566bc68-ab98-4ecb-970c-328a8943c5fe.jpg)
+
+![Screenshot_3](https://user-images.githubusercontent.com/93503629/205933144-b82c71c8-adba-4bfa-9c6f-e598b0bccae9.jpg)
