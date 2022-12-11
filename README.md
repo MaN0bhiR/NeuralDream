@@ -11,7 +11,7 @@ The style loss is obtained by passing the outputs of the style image and generat
 
 And then, I performed optimization to reduce the loss bewteen generated image and given images. The default train steps are set to 2000.
 
-React is used for the frontend, and fetch API is used for making requests with the backend server. FastAPI is used in the backend to input the data from the user and run the whole algorithm and post the results back to the user after training.
+React is used for the frontend, and fetch API is used for making requests with the backend server. FastAPI is used in the backend to take input data from the user and run the whole algorithm and post the results back to the user after training.
 
 Some of the output images are shown below.
 
